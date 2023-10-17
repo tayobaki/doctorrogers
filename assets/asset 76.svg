@@ -1,0 +1,11 @@
+<svg aria-hidden="true" focusable="false" class="icon icon-arrow" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="22" cy="22" r="21.5" stroke="#000"/>
+  <g clip-path="url(#a)">
+    <path d="m9.112 22.307 7.173 7.555c.173.18.47.181.637.02a.464.464 0 0 0 .02-.631l-6.458-6.805h24.068c.247 0 .448-.2.448-.445s-.2-.444-.448-.444H10.485l6.457-6.806a.461.461 0 0 0-.02-.632.458.458 0 0 0-.637.02l-7.173 7.556a.474.474 0 0 0 0 .611Z" fill="#000"/>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" transform="rotate(90 10.5 24.5)" d="M0 0h16v26H0z"/>
+    </clipPath>
+  </defs>
+</svg>
